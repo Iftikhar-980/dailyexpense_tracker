@@ -6,5 +6,5 @@
  */
 window.APP_CONFIG = {
   SUPABASE_URL: "https://amrlwbacuuwkzqxeqokw.supabase.co",
-  SUPABASE_PUBLISHABLE_KEY: "YOUR_PUBLISHABLE_KEY"
+  SUPABASE_PUBLISHABLE_KEY: "sb_publishable_yhx0iVWXpRiucm99_6c9bQ_hm-Iv8L_"
 };
